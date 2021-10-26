@@ -27,8 +27,9 @@ body {
     width: 500px;
     background-color:  rgb(255,255, 255);
     border-radius: 1%;
-    margin: auto;
-    margin-top: 20px;
+    margin: 150px;
+    margin-top: 40px;
+    color: rgb(68, 72, 81);
 }
 
 .command-bar {
